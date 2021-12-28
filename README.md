@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="elfri.app@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg"  height="30" width="40"></a>
+<a href="elfri.app@gmail.com"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="elfri.app@gmail.com"  height="30" width="40"></a>
 <!-- <a href="elfri.app@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elfriantoepi" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/elfriantoepi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elfriantoepi" height="30" width="40" /></a>
 <a href="https://instagram.com/elfri_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elfri_art" height="30" width="40" /></a>
