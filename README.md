@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epiii" alt="epiii" /></a> </p>
 
 - 💻 All of my projects are available at [epiii.github.io](https://epiii.github.io)
-- 📧 How to reach me **elfri.app@gmail.com**
+<!-- - 📧 How to reach me **elfri.app@gmail.com** -->
 - 🔗 My Link Collection **https://linkr.bio/nyamm-tech**
 
 <h3 align="left">Connect with me:</h3>
